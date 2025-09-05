@@ -184,6 +184,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ for music lovers everywhere</p>
-  <p><strong>Earbound</strong> - Bringing Back the MP3 Era</p>
+  <p><strong>Earbound</strong> - Bringing Back the MP3 Era.</p>
   <p>Created by <strong>Ronak Singh Meena</strong></p>
 </div>
