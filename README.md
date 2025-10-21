@@ -171,7 +171,7 @@ pip install spotdl yt-dlp
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [spotdl](https://github.com/spotDL/spotify-downloader) - Spotify downloading engine
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - YouTube downloading engine
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ for music lovers everywhere</p>
+  <p>Made with Love for music lovers everywhere</p>
   <p><strong>Earbound</strong> - Bringing Back the MP3 Era.</p>
   <p>Created by <strong>Ronak Singh Meena</strong></p>
 </div>
